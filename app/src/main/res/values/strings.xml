@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Te Te</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_near_by_me">Near Me</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="tabs">
+        <item>ဟိုက္ဂ်က္</item>
+        <item>ဘြန္ဂို</item>
+        <item>KIA</item>
+        <item>Light rack</item>
+        <item>တြဲကား</item>
+        <item>ေဘာက္စ္ ကား</item>
+        <item>ကြန္တိန္နာ</item>
+        <item>အိမ္ေျပာင္းေ႐ႊဝန္ေဆာင္မႈကား</item>
+        <item>အေအးခန္းကား</item>
+        <item>ကရိန္း ကား</item>
+        <item>ထရစ္ ကား</item>
+</string-array>
+</resources>
